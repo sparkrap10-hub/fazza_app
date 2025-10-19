@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42446955304",
+    "project_id": "fazzaapp-5d93c",
+    "storage_bucket": "fazzaapp-5d93c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42446955304:android:dd0255479545a297e9261d",
+        "android_client_info": {
+          "package_name": "com.example.smart_car_service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKrvMKDx4rcunDtrnQn9ash1afTgAHAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42446955304:android:95bdc2f2144de447e9261d",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKrvMKDx4rcunDtrnQn9ash1afTgAHAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
