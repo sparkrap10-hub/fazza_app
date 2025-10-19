@@ -79,7 +79,7 @@ class _AdminDashboardState extends State<AdminDashboard> {
                       );
                     },
                   ),
-                  const SizedBox(width: 8),
+                  const SizedBox(width: 5),
                   _buildActionButton(
                     icon: Icons.request_page,
                     label: "الطلبات",
@@ -92,7 +92,7 @@ class _AdminDashboardState extends State<AdminDashboard> {
                       );
                     },
                   ),
-                  const SizedBox(width: 8),
+                  const SizedBox(width: 5),
                   _buildActionButton(
                     icon: Icons.business_center,
                     label: "المزودين",
